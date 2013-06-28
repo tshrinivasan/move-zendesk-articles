@@ -1,3 +1,3 @@
-sitename = https://ctfdoc.zendesk.com
-username = shrinivasan@collab.net
-password = Collabnet1!
+sitename = Add zendesk site url here as https://<sitename>.zendesk.com
+username = Add user name here
+password = Add password here
