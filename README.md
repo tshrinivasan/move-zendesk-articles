@@ -1,3 +1,10 @@
+Move Zendesk Articles to a Forum:
+================================
+
+
+Author: tshrinivasan@gmail.com
+
+
 Script to Mass move the articles in zendesk.com instance
 from one forum to another forum.
 
@@ -30,7 +37,7 @@ Copy the URLs of the articles you want to move and
 paste them in the articles.txt
 
 You can use the addon for firefox 
-https://addons.mozilla.org/en-us/firefox/addon/copy-urls-expert/
+[https://addons.mozilla.org/en-us/firefox/addon/copy-urls-expert/]
 
 This will help you to select some content and copy the links in the content to clipboard.
 
