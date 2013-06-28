@@ -10,7 +10,7 @@ from one forum to another forum.
 
 
 
-Required Software:
+*Required Software:*
 
 python-configobj
 
@@ -21,11 +21,11 @@ sudo apt-get install python-configobj
 
 
 
-How to execute:
+*How to execute:*
 
 
 1.
-Edit the config.txt
+*Edit the config.txt*
 add the following stuff
 
 1. Zendesk site URL
@@ -33,7 +33,7 @@ add the following stuff
 3. Password
 
 2.
-Copy the URLs of the articles you want to move and
+*Copy the URLs of the articles you want to move* and
 paste them in the articles.txt
 
 You can use the addon for firefox 
@@ -44,7 +44,7 @@ This will help you to select some content and copy the links in the content to c
 Then, you can paste the URLs in the articles.txt
 
 3.
-run the script as
+*run the script* as
 python move-zenesk-article.py
 
 This will ask for the forum you want to move the articles to.
